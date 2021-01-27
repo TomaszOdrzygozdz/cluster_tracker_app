@@ -1,0 +1,12 @@
+eagle:
+  user: plgtodrzygozdz
+  host: eagle.man.poznan.pl
+
+prometheus:
+  user: plgtodrzygozdz
+  host: pro.cyfronet.pl
+
+out_file: /home/tomek/Research/cluster_tracker/out/slurm.out
+editor: kate
+file_browser: dolphin
+database_file: /home/tomek/Research/mrunner/logs/experiments_database.csv
